@@ -2,4 +2,4 @@
 
 
  execute app with 
-   py main.py -m for the manual app or write help
+ 'py main.py -m'  for the manual app or write help
